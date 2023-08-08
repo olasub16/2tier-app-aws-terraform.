@@ -19,9 +19,13 @@ In this project, we will be creating 2 tier application in AWS using Infrastruct
 
 1. AWS account Accesskey and Secretkey.
 
-2. AWS CLI and Terraform Installed in your system
+ ## Architectural diagram: 
+![Screenshot 2023-05-26 131023](https://github.com/gopal1gupta/2tier-app-aws-with-terraform/assets/84216589/16a94d7e-e34d-4055-9547-e589f7887061)
 
-3. Any IDE i.e VS code or Pycharm.
+
+3. AWS CLI and Terraform Installed in your system
+
+4. Any IDE i.e VS code or Pycharm.
 
 
 
